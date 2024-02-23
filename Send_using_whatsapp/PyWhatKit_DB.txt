@@ -1,0 +1,35 @@
+Date: 11/12/2023
+Time: 22:36
+Phone Number: +919566127215
+Message: hai this is python sened message
+--------------------
+Date: 11/12/2023
+Time: 22:39
+Phone Number: +919566127215
+Message: hai this is python sened message
+--------------------
+Date: 11/12/2023
+Time: 22:40
+Phone Number: +919566127215
+Message: hai this is python sened message
+--------------------
+Date: 11/12/2023
+Time: 22:40
+Phone Number: +919566127215
+Message: hai this is python sened message
+--------------------
+Date: 11/12/2023
+Time: 22:41
+Phone Number: +919566127215
+Message: hai this is python sened message
+--------------------
+Date: 11/12/2023
+Time: 22:42
+Phone Number: +919566127215
+Message: hai this is python sened message
+--------------------
+Date: 11/12/2023
+Time: 22:45
+Phone Number: +919566127215
+Message: Hello from Python! This is a test message.
+--------------------
